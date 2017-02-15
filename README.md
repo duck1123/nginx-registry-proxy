@@ -1,4 +1,4 @@
-# NGINX Simple Proxy
+# NGINX Registry Proxy
 
 Ever need a simple static proxy and didn't want to mess around nginx configuration? Look no further! This NGINX image image allows for you to set an environment variable as a static proxy.
 
